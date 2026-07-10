@@ -1,0 +1,26 @@
+[
+  {
+    "role": "新娘",
+    "name": "樊婷婷",
+    "phone": "17864113044",
+    "displayPhone": "178 **** 3044",
+    "wechat": "ftt_0627",
+    "avatarName": "wedding_garden"
+  },
+  {
+    "role": "新郎",
+    "name": "王吉凯",
+    "phone": "15628942007",
+    "displayPhone": "156 **** 2007",
+    "wechat": "wjk_0627",
+    "avatarName": "wedding_rings"
+  },
+  {
+    "role": "婚礼总负责人",
+    "name": "王管家",
+    "phone": "13700000000",
+    "displayPhone": "137 **** 0000",
+    "wechat": "wedding_helper",
+    "avatarName": "wedding_venue"
+  }
+]
